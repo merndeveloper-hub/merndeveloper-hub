@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yameen_owais" target="blank"><img src="https://img.shields.io/twitter/follow/yameen_owais?logo=twitter&style=for-the-badge" alt="yameen_owais" /></a> </p>
 
-- 🔭 I’m currently working on **NFT web apps and much more**
+- 🔭 I’m currently working on **Fintech business and banking**
 
-- 🌱 I’m currently learning **Serverless,Microservices and Kubernetes**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨💻 All of my projects are available at [https://brilliant-frangollo-1a8706.netlify.app](https://brilliant-frangollo-1a8706.netlify.app)
 
-- 💬 Ask me about **Android, Mern, AWS Architecture**
+- 💬 Ask me about **Android, Mern, AWS Architecture,Serverless,Microservices and Kubernetes**
 
 - 📫 How to reach me **owaisy028@gmail.com**
 
