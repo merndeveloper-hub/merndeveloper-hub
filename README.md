@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owais Yameen</h1>
-<h3 align="center">A passionate Full Stack and Devops developer</h3>
+<h3 align="center">A passionate Full Stack and Devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merndeveloper-hub&label=Profile%20views&color=0e75b6&style=flat" alt="merndeveloper-hub" /> </p>
 
@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/yameen_owais" target="blank"><img src="https://img.shields.io/twitter/follow/yameen_owais?logo=twitter&style=for-the-badge" alt="yameen_owais" /></a> </p>
 
-- 🔭 I’m currently working on **Fintech business and banking**
+- 🔭 I’m currently working on **Fintech Business and Banking**
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨💻 All of my projects are available at [https://brilliant-frangollo-1a8706.netlify.app](https://brilliant-frangollo-1a8706.netlify.app)
+#- 👨💻 All of my projects are available at [https://brilliant-frangollo-1a8706.netlify.app](https://brilliant-frangollo-1a8706.netlify.app)
 
-- 💬 Ask me about **Android, Mern, AWS Architecture,Serverless,Microservices and Kubernetes**
+- 💬 Ask me about **Web and Moblile Application, AWS Services,Serverless,Microservices and Devops like Linux, Docker, Kubernetes, Jenkins,Terraform**
 
 - 📫 How to reach me **owaisy028@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
