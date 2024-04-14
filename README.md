@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Web and Moblile Application, AWS Services,Serverless,Microservices and Devops like Linux, Docker, Kubernetes, Jenkins,Terraform**
+- 💬 Ask me about **Web and Moblile Application, AWS Services, Serverless, Microservices and Devops like Linux, Docker, Kubernetes, Jenkins,Terraform**
 
 - 📫 How to reach me **owaisy028@gmail.com**
 
